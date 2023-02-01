@@ -1,0 +1,14 @@
+C:\Users\dilar\Desktop\VisualSt.New\Abstraction.Homework.2012023\Abstraction.Homework.2012023\obj\Debug\netcoreapp3.1\Abstraction.Homework.2012023.csproj.AssemblyReference.cache
+C:\Users\dilar\Desktop\VisualSt.New\Abstraction.Homework.2012023\Abstraction.Homework.2012023\obj\Debug\netcoreapp3.1\Abstraction.Homework.2012023.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dilar\Desktop\VisualSt.New\Abstraction.Homework.2012023\Abstraction.Homework.2012023\obj\Debug\netcoreapp3.1\Abstraction.Homework.2012023.AssemblyInfoInputs.cache
+C:\Users\dilar\Desktop\VisualSt.New\Abstraction.Homework.2012023\Abstraction.Homework.2012023\obj\Debug\netcoreapp3.1\Abstraction.Homework.2012023.AssemblyInfo.cs
+C:\Users\dilar\Desktop\VisualSt.New\Abstraction.Homework.2012023\Abstraction.Homework.2012023\obj\Debug\netcoreapp3.1\Abstraction.Homework.2012023.csproj.CoreCompileInputs.cache
+C:\Users\dilar\Desktop\VisualSt.New\Abstraction.Homework.2012023\Abstraction.Homework.2012023\bin\Debug\netcoreapp3.1\Abstraction.Homework.2012023.exe
+C:\Users\dilar\Desktop\VisualSt.New\Abstraction.Homework.2012023\Abstraction.Homework.2012023\bin\Debug\netcoreapp3.1\Abstraction.Homework.2012023.deps.json
+C:\Users\dilar\Desktop\VisualSt.New\Abstraction.Homework.2012023\Abstraction.Homework.2012023\bin\Debug\netcoreapp3.1\Abstraction.Homework.2012023.runtimeconfig.json
+C:\Users\dilar\Desktop\VisualSt.New\Abstraction.Homework.2012023\Abstraction.Homework.2012023\bin\Debug\netcoreapp3.1\Abstraction.Homework.2012023.runtimeconfig.dev.json
+C:\Users\dilar\Desktop\VisualSt.New\Abstraction.Homework.2012023\Abstraction.Homework.2012023\bin\Debug\netcoreapp3.1\Abstraction.Homework.2012023.dll
+C:\Users\dilar\Desktop\VisualSt.New\Abstraction.Homework.2012023\Abstraction.Homework.2012023\bin\Debug\netcoreapp3.1\Abstraction.Homework.2012023.pdb
+C:\Users\dilar\Desktop\VisualSt.New\Abstraction.Homework.2012023\Abstraction.Homework.2012023\obj\Debug\netcoreapp3.1\Abstraction.Homework.2012023.dll
+C:\Users\dilar\Desktop\VisualSt.New\Abstraction.Homework.2012023\Abstraction.Homework.2012023\obj\Debug\netcoreapp3.1\Abstraction.Homework.2012023.pdb
+C:\Users\dilar\Desktop\VisualSt.New\Abstraction.Homework.2012023\Abstraction.Homework.2012023\obj\Debug\netcoreapp3.1\Abstraction.Homework.2012023.genruntimeconfig.cache

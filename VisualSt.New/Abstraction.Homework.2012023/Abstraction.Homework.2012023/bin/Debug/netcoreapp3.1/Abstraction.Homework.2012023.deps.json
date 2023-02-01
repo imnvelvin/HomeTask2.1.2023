@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Abstraction.Homework.2012023/1.0.0": {
+        "runtime": {
+          "Abstraction.Homework.2012023.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Abstraction.Homework.2012023/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
